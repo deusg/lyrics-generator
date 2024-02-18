@@ -10,7 +10,5 @@ This project is a fun exercise in string formatting and user interaction, allowi
 2. Follow the prompts to enter words representing something red, something blue, something you love, and a verb.
 3. The script will generate personalized song lyrics based on your inputs and display them for you to enjoy.
 
-Feel free to modify the script or incorporate it into your own projects for additional customization!
-
 ## Credits
 This project was inspired by the book "_Creative Coding in Python_" (Chapter 1, Page 33).
